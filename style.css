@@ -1,0 +1,34 @@
+a {
+    text-decoration: none;
+}
+
+.menu {
+    color: rgb(41, 91, 19);
+    font: size 20px;;
+    line-height: 30px;
+
+}
+
+.maintitle {
+    color: blue;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+p  {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #ea0cba
+    
+}
+
+.secondtitle {
+    color: rgb(197, 80, 255);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
